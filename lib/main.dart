@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.green,
         scaffoldBackgroundColor: const Color.fromARGB(
             255, 97, 109, 87), // Cambiado a un MaterialColor
+            
       ),
       home: SignInScreen(),
     );
